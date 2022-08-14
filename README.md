@@ -87,7 +87,7 @@ echo '{
 }' > $HOME/gen_tx.json
 ```
 <H1> 2. TXi imzalıyoruz </H1>
-seiadresiniz kısmına cüzdanınızı yazın.
+seiadresiniz kısmına adresinizi yazın.
 
 ```
 ACC=$(seid q account seiadresiniz -o json | jq -r .account_number)
