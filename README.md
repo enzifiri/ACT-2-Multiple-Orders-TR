@@ -1,4 +1,4 @@
-# Place multiple Long/Short orders in one transaction (bundled order placement) in any market on Vortex. Currently this needs to be done via CLI
+# Place multiple Long/Short orders Görevi 
 <a href="https://3pgv.notion.site/b7a73a18ef444b9483b5601bf833bae8?v=9111c2c97f2842c5aa75b8d5e5b00a1e" target="_blank">Sei Görevleri</a> 
 
 <a href="https://docs.google.com/forms/d/1qxpIL-ATe1HMX87w1P7BjMqpjXExlKyo1_btEJi00JM/viewform?edit_requested=true" target="_blank">Sei Formu</a> 
