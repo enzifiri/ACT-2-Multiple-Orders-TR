@@ -1,5 +1,5 @@
 # 1- Öncelikle TX Gövdesi Oluşturuyoruz.
-Creator ve Account adresinin karşısındaki "seiadresiniz" kısmına kendi sei cüzdanınızı yazın.
+Creator ve Account karşısındaki "seiadresiniz" kısmına kendi sei cüzdanınızı yazın.
 Kodu 1 seferde girin ve tırnakları kaldırmayın!!
 ContractAddr kısmında değişiklik yapmayın orası olduğu gibi kalsın.
 
